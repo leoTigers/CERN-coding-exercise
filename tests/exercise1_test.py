@@ -1,4 +1,4 @@
-from exercices.exercise1 import (get_duplicated_objects_hashable,
+from exercises.exercise1 import (get_duplicated_objects_hashable,
                                  get_duplicated_objects_non_hashable)
 
 
